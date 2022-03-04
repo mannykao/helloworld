@@ -1,0 +1,47 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.sln",
+				"*.pyproj",
+				"*.eml",
+				"*.tex",
+				"*.jpg",
+				"*.html",
+				"*.pickle",
+				"*.npy",
+				"*.gz",
+				"*.pic",
+				"*.dat",
+				"**.pth",
+				"*.ipynb",
+				"*.blg",
+				"*.bbl",
+				"*.bib",
+				"*.pkl",
+				"*.mp4",
+				"*.mat",
+				"*.csv",
+				"*.aux",
+				"*.json",
+				"*.js",
+				"*.svg",
+				"*.gz",
+				"*.npz",
+			],
+			"folder_exclude_patterns":
+			[
+				".vs",
+				".ipynb_checkpoints",
+				"__pycache__",
+				"data",
+				"build",
+				"*.egg-info",
+				"venv4helloworld",
+			],
+			"path": "."
+		}
+	]
+}
